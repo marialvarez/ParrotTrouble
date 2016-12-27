@@ -1,0 +1,29 @@
+* {
+    /*outline: 1px solid rgba(255,0,0,0.4);*/
+}
+
+body {
+    background: url(img/p2.jpg) center center;
+    background-size:cover;
+    font-family: 'Viga', sans-serif;
+    color:#fff;
+}
+.big {
+    color:#00c9e3;
+    font-size: 30px;
+    padding: 6%;
+}
+.big span {
+    color:#fff;
+}
+.fondito {
+    background: rgba(0,0,0,0.5);
+}
+.title {
+    color:#00c9e3;
+    font-weight: bold;
+}
+.opaco {
+    background: rgba(0,0,0,0.5);
+    padding: 2%;
+}
