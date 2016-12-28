@@ -1,7 +1,6 @@
 function calcular() {
     var hora = parseInt(document.getElementById("hora").value);
     var talking = document.getElementById("talking");
-    var noTalking = document.getElementById("noTalking");
     var salida = document.getElementById("salida");
     var salida2 = document.getElementById("salida2");
     
